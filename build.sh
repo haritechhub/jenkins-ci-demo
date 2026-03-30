@@ -17,3 +17,4 @@ echo "=============================="
 echo " All Tests PASSED!"
 echo " Build Successful!"
 echo "=============================="
+exit 1
